@@ -1,0 +1,29 @@
+from langchain.llms import LlamaCpp
+from langchain.prompts import PromptTemplate
+1. What does the acronym "DDoS" stand for?
+   a) Digital Defense of Systems
+   b) Data Denial of Service
+   c) Distributed Denial of Service
+   d) Dual Domain of Security
+2. Which of the following is not considered a type of malware?
+   a) Virus
+   b) Worm
+   c) Trojan
+   d) Router
+3. What does the term "phishing" refer to in cybersecurity?
+   a) A type of malware that spreads through email
+   b) A method used by hackers to gain unauthorized access to a system
+   c) A social engineering attack that tricks individuals into revealing sensitive information
+   d) A cryptographic technique used to secure communication channels
+4. Which of the following is an example of a strong password?
+   a) Password123
+   b) 123456
+   c) P@ssw0rd!
+   d) abcdef
+5. What is the purpose of a firewall in cybersecurity?
+   a) To protect against viruses and malware
+   b) To monitor network traffic and block unauthorized access
+   c) To encrypt data transmissions over the internet
+   d) To provide secure authentication for users"
+"""
+ 

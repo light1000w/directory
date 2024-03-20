@@ -1,0 +1,12 @@
+This file contains all students grades out of 20.
+
+Nour: 20
+Hanoof: 20
+Esp: 20
+Shedoun: 20
+Fahad: 6
+Moh: 10
+Saleh: 15
+Haya: 8
+Hend: 20
+Ahmed: 20

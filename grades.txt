@@ -1,12 +1,12 @@
 This file contains all students grades out of 20.
 
-Nour: 20
-Hanoof: 20
-Esp: 20
-Shedoun: 20
-Fahad: 6
-Moh: 10
-Saleh: 15
-Haya: 8
-Hend: 20
-Ahmed: 20
+Nour: 20 (SID: 2181142411)
+Hanoof: 20 (SID: 2181142412)
+Eso: 20 (SID: 2181142413)
+Shedoun: 20 (SID: 2181142414)
+Fahad: 6 (SID: 2181142415)
+Moh: 10 (SID: 2181142416)
+Saleh: 15 (SID: 2181142417)
+Haya: 8 (SID: 2181142418)
+Hend: 20 (SID: 2181142419)
+Ahmed: 20 (SID: 21811424110)
